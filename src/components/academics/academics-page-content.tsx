@@ -278,7 +278,7 @@ export function AcademicsPageContent() {
                       {step.number}
                     </span>
                   </div>
-
+j
                   <div className="flex flex-1 items-center justify-between border-b border-border pb-4">
                     <p className="text-sm font-semibold text-navy">
                       {step.title}

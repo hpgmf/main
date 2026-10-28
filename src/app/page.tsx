@@ -18,7 +18,7 @@ export default function HomePage() {
       <main>
         <HeroCarousel />
         <About />
-        <Academics />
+        <Academics /> 
         <Campus />
         <Career />
         <Contact />
