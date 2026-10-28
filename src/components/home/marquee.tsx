@@ -16,7 +16,7 @@ export default function TopMarquee() {
 
       <div className="flex items-center gap-2 whitespace-nowrap">
         <Phone className="size-3.5 stroke-[1.5]" />
-        <span>For enquiries: +91 95641 36341</span>
+        <span>For enquiries: 033 6523 4545</span>
       </div>
     </div>
   );
