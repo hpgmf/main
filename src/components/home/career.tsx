@@ -253,7 +253,7 @@ export default function Career() {
 
                     <div>
                       <p className="text-xl font-semibold tracking-[-0.02em] sm:text-[22px]">
-                        14 October
+                        15 December
                       </p>
 
                       <p className="text-xs text-white/50">

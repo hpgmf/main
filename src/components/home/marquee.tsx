@@ -8,7 +8,7 @@ export default function TopMarquee() {
       <div className="flex items-center gap-2 whitespace-nowrap">
         <span className="font-semibold">Notice:</span>
         <span className="text-white/85">
-          Admissions are now open.
+          Faculty Requirement is open now
         </span>
       </div>
 
