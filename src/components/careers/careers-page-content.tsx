@@ -279,7 +279,7 @@ export function CareerPageContent() {
                     href="mailto:info@hpgmf.org"
                     className="mt-2 block break-all text-base font-semibold text-navy hover:text-red sm:text-xl"
                   >
-                    careers@hpghoshfoundation.org
+                    info@hpgmf.org
                   </a>
 
                   <p className="mt-3 text-sm leading-6 text-muted-foreground">

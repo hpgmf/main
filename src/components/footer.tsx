@@ -188,10 +188,10 @@ export default function SiteFooter() {
                     </p>
 
                     <a
-                      href="mailto:careers@hpghoshfoundation.org"
+                      href="mailto:info@hpgmf.org"
                       className="mt-1 block break-all text-[12px] text-white/70 transition-colors hover:text-white"
                     >
-                      careers@hpghoshfoundation.org
+                      info@hpgmf.org
                     </a>
                   </div>
                 </div>
