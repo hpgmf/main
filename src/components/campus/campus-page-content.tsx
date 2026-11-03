@@ -21,7 +21,7 @@ const medicalPositions = [
   {
     position: "Senior Residents / Tutors",
     details:
-      "Across all major clinical and non-clinical specialties. Qualifications as per NMC Norms",
+      "Across all major clinical and pre-para-clinical specialties. Qualifications as per NMC Norms",
   },
 ];
 

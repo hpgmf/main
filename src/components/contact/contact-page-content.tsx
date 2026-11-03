@@ -83,17 +83,17 @@ export function ContactPageContent() {
 
               <ContactItem icon={Mail} label="Email">
                 <p className="text-[14px] font-medium text-navy">
-                  General enquiry email to be updated
+                  Enquiry Email 
                 </p>
 
                 <p className="mt-1 text-[12px] text-muted-foreground">
-                  Careers: careers@hpghoshfoundation.org
+                  Careers: info@hpgmf.org
                 </p>
               </ContactItem>
 
               <ContactItem icon={Phone} label="Phone">
                 <p className="text-[14px] font-medium text-navy">
-                  Contact number to be updated
+                  033 6523 4545
                 </p>
               </ContactItem>
             </div>

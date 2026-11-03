@@ -21,7 +21,7 @@ const medicalPositions = [
   {
     position: "Senior Residents / Tutors",
     details:
-      "Across all major clinical and non-clinical specialties. Qualifications as per NMC Norms",
+      "Across all major clinical and pre-para-clinical specialties. Qualifications as per NMC Norms",
   },
 ];
 
@@ -276,7 +276,7 @@ export function CareerPageContent() {
                   </p>
 
                   <a
-                    href="mailto:careers@hpghoshfoundation.org"
+                    href="mailto:info@hpgmf.org"
                     className="mt-2 block break-all text-base font-semibold text-navy hover:text-red sm:text-xl"
                   >
                     careers@hpghoshfoundation.org
@@ -307,7 +307,7 @@ export function CareerPageContent() {
                   </p>
 
                   <p className="mt-2 text-sm font-medium text-navy">
-                    +91-[0000000000] |
+                    +91-[033 6523 4545] |
                   </p>
                 </div>
               </div>
@@ -319,7 +319,7 @@ export function CareerPageContent() {
               </p>
 
               <a
-                href="mailto:careers@hpghoshfoundation.org"
+                href="mailto:info@hpgmf.org"
                 className="group inline-flex h-11 shrink-0 items-center gap-2 rounded-xl bg-red px-6 text-xs font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
               >
                 Apply via Email
