@@ -1,6 +1,6 @@
 import { ArrowUpRight, Mail } from "lucide-react";
 
-const EMAIL = "info@hpghoshmemorial.org";
+const EMAIL = "info@hpgmf.org";
 
 export default function Contact() {
   return (
