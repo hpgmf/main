@@ -279,7 +279,7 @@ export default function Career() {
                   {/* Apply */}
 
                   <a
-                    href="mailto:pradip.bandyopadhyay@fitrust.org?subject=Application%20for%20Faculty%20Position%20-%20HP%20Ghosh%20Memorial%20Medical%20College"
+                    href="mailto:info@hpgmf.org?subject=Application%20for%20Faculty%20Position%20-%20HP%20Ghosh%20Memorial%20Medical%20College"
                     className="
                       group
                       mt-5
@@ -312,7 +312,7 @@ export default function Career() {
                   </a>
 
                   <p className="mt-3 break-all text-[9px] leading-4 text-white/40">
-                    pradip.bandyopadhyay@fitrust.org
+                    info@hpghoshmemorial.org
                   </p>
                 </div>
               </aside>
